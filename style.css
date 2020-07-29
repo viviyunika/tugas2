@@ -1,0 +1,36 @@
+ul {
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    list-style: square;
+}
+
+#satu {
+    background-color: #aaeeff;
+}
+
+#dua {
+    background-color: greenyellow;
+}
+
+#tiga {
+    background-color: rgb(247, 109, 185);
+}
+
+#empat {
+    background-color: rgb(255, 234, 47);
+}
+
+#lima {
+    background-color: lightsalmon;
+}
+
+.sama {
+    padding: 20px 20px;
+    margin: 25px 25px;
+    font-family: Verdana;
+    border-radius: 55px;
+}
+
+h1 {
+    font-family: Candara;
+}
